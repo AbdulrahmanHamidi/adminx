@@ -1,0 +1,21 @@
+{
+    "name": "codcaf/adminx",
+    "description": "This is a laravel admin panel template.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdulrahman HAMIDI",
+            "email": "abdulrahman_hamidi@hotmail.com"
+        }
+    ],
+
+
+    "autoload": {
+        "psr-4": {
+            "CodCaf\\Adminx\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
